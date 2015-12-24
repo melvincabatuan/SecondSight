@@ -1,0 +1,57 @@
+~/AndroidStudioProjects/SecondSight/app/src/main/jni$ ndk-build
+[arm64-v8a] Compile++      : SecondSight <= SecondSightJNI.cpp
+[arm64-v8a] Compile++      : SecondSight <= RecolorCMVFilter.cpp
+[arm64-v8a] Compile++      : SecondSight <= RecolorRCFilter.cpp
+[arm64-v8a] Compile++      : SecondSight <= RecolorRGVFilter.cpp
+[arm64-v8a] Compile++      : SecondSight <= StrokeEdgesFilter.cpp
+[arm64-v8a] Compile++      : SecondSight <= ImageDetectionFilter.cpp
+[arm64-v8a] SharedLibrary  : libSecondSight.so
+[arm64-v8a] Install        : libSecondSight.so => libs/arm64-v8a/libSecondSight.so
+[armeabi] Compile++ thumb: SecondSight <= SecondSightJNI.cpp
+[armeabi] Compile++ thumb: SecondSight <= RecolorCMVFilter.cpp
+[armeabi] Compile++ thumb: SecondSight <= RecolorRCFilter.cpp
+[armeabi] Compile++ thumb: SecondSight <= RecolorRGVFilter.cpp
+[armeabi] Compile++ thumb: SecondSight <= StrokeEdgesFilter.cpp
+[armeabi] Compile++ thumb: SecondSight <= ImageDetectionFilter.cpp
+[armeabi] SharedLibrary  : libSecondSight.so
+[armeabi] Install        : libSecondSight.so => libs/armeabi/libSecondSight.so
+[armeabi-v7a] Compile++ thumb: SecondSight <= SecondSightJNI.cpp
+[armeabi-v7a] Compile++ thumb: SecondSight <= RecolorCMVFilter.cpp
+[armeabi-v7a] Compile++ thumb: SecondSight <= RecolorRCFilter.cpp
+[armeabi-v7a] Compile++ thumb: SecondSight <= RecolorRGVFilter.cpp
+[armeabi-v7a] Compile++ thumb: SecondSight <= StrokeEdgesFilter.cpp
+[armeabi-v7a] Compile++ thumb: SecondSight <= ImageDetectionFilter.cpp
+[armeabi-v7a] SharedLibrary  : libSecondSight.so
+[armeabi-v7a] Install        : libSecondSight.so => libs/armeabi-v7a/libSecondSight.so
+[mips] Compile++      : SecondSight <= SecondSightJNI.cpp
+[mips] Compile++      : SecondSight <= RecolorCMVFilter.cpp
+[mips] Compile++      : SecondSight <= RecolorRCFilter.cpp
+[mips] Compile++      : SecondSight <= RecolorRGVFilter.cpp
+[mips] Compile++      : SecondSight <= StrokeEdgesFilter.cpp
+[mips] Compile++      : SecondSight <= ImageDetectionFilter.cpp
+[mips] SharedLibrary  : libSecondSight.so
+[mips] Install        : libSecondSight.so => libs/mips/libSecondSight.so
+[mips64] Compile++      : SecondSight <= SecondSightJNI.cpp
+[mips64] Compile++      : SecondSight <= RecolorCMVFilter.cpp
+[mips64] Compile++      : SecondSight <= RecolorRCFilter.cpp
+[mips64] Compile++      : SecondSight <= RecolorRGVFilter.cpp
+[mips64] Compile++      : SecondSight <= StrokeEdgesFilter.cpp
+[mips64] Compile++      : SecondSight <= ImageDetectionFilter.cpp
+[mips64] SharedLibrary  : libSecondSight.so
+[mips64] Install        : libSecondSight.so => libs/mips64/libSecondSight.so
+[x86] Compile++      : SecondSight <= SecondSightJNI.cpp
+[x86] Compile++      : SecondSight <= RecolorCMVFilter.cpp
+[x86] Compile++      : SecondSight <= RecolorRCFilter.cpp
+[x86] Compile++      : SecondSight <= RecolorRGVFilter.cpp
+[x86] Compile++      : SecondSight <= StrokeEdgesFilter.cpp
+[x86] Compile++      : SecondSight <= ImageDetectionFilter.cpp
+[x86] SharedLibrary  : libSecondSight.so
+[x86] Install        : libSecondSight.so => libs/x86/libSecondSight.so
+[x86_64] Compile++      : SecondSight <= SecondSightJNI.cpp
+[x86_64] Compile++      : SecondSight <= RecolorCMVFilter.cpp
+[x86_64] Compile++      : SecondSight <= RecolorRCFilter.cpp
+[x86_64] Compile++      : SecondSight <= RecolorRGVFilter.cpp
+[x86_64] Compile++      : SecondSight <= StrokeEdgesFilter.cpp
+[x86_64] Compile++      : SecondSight <= ImageDetectionFilter.cpp
+[x86_64] SharedLibrary  : libSecondSight.so
+[x86_64] Install        : libSecondSight.so => libs/x86_64/libSecondSight.so
